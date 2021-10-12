@@ -1,0 +1,57 @@
+This folder consists of all django projects done by me :
+
+- django-ice-cream-website : The website is created for users who can now easily place there order on the website. It contains many section in it such as:
+                            - Falvours section
+                            - Order Now section
+                            - Gallery Section
+                            - services and many more.
+                            - It is also connected to a data base to store the order details of the customer.
+
+Requirements:
+
+Django must be installed in your editor.
+Python should be installed in your editor.
+You can download Django in your editor using command - python -m pip install Django.
+
+The project name is "Hello".
+
+To view the project open the project in your editor and then terminal in your editor where the project in present and type python manage.py runserver.
+
+It will provide you an url- http://127.0.0.1:8000/ , open this and it will direct you to your default browser location and then you can view the wesite.
+
+The website will be accesible till the server is running. To exit the server press "crl + C" and the server will stop or it will automatically close if you close your editor.
+
+- Student-study-portal : This website is made for the student who can  manage their studies well using this website. There are many sections for helping student to do beeter 
+                         in his education . The user has to login to accsess the notes , homework and todo functions. All the details of the user are stored in the admin table.
+                         Some of the sections are:
+                         - Youtube
+                         - Notes making
+                         - Homework 
+                         - To do list
+                         - Books
+                         - Dictionary 
+                         - Wikipedia
+
+Features :
+
+Uses CRUD
+Has Login authentication.
+Uses API calling.
+
+Requirements:
+
+Django must be installed in your editor.
+Python should be installed in your editor.
+wikipedia should be installed in your editor.
+youtube-search-python should be installed in your editor.
+You can download Django in your editor using command - python -m pip install Django. 
+You can download wikipedia in your editor using command -pip install wikipedia.
+You can download youtube-search-python in your editor using command - pip install youtube-search-python.
+
+The project name is "studentportal".
+
+To view the project open the project in your editor and then terminal in your editor where the project in present and type python manage.py runserver.
+
+It will provide you an url- http://127.0.0.1:8000/ , open this and it will direct you to your default browser location and then you can view the wesite.
+
+The website will be accesible till the server is running. To exit the server press "crl + C" and the server will stop or it will automatically close if you close your editor.
