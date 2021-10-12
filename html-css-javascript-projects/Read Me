@@ -1,0 +1,54 @@
+This folder contains all my projects build using :
+- Html
+- Css
+- Javascript
+- API 
+
+There are two projects named - "Tour_Travel_Website" and "Chatapp" which uses php language also in them.
+
+Here are show description about the projects :
+
+- Food Website : This is an online website build for customers to order their food online and view the different facilities provided byt the restaurant to their customers. 
+                 It contians smooth css animations and attractive templates.
+                 This website has many sections in it such as:
+                 - gallery section.
+                 - speciality section.
+                 - popular section and many more.
+
+- Music App : This is a music app build for music lovers. It contains five songs in it and can be added more in it. It has a good UI design and functions like:
+              - Auto Play
+              - Song Count
+              - Artist name
+              - volume can be altered
+              - the timings of the song can also be altered.
+              
+- Recipe App : This app is build for the users who wish to cook new dishes everyday . The user has to type in the ingrediant in the search box , then the app will 
+               automatically generate dishes and their details using an API . The user can also refer to the video for step by step procedure of the recipe. It has 
+               a simple css design used in it with javascript to work with thw API.
+               
+- Tour Travel Website : This website is build for the people who are found of travelling and discovering the different parts of the world. This website provides a 
+                        full guide support for visting famous place of the world and also the events famous there . It also helps the user to plan his trip with maximum 
+                        fun output. It uses additional php language in it and also contains a database for storing the details of the customers who have registered or booked 
+                        a trip on the website. The user has to login first to book any trip thus it also uses login verification of the user which are stored in the sql database.
+                        
+- Weather App : This is an application which tells the weather of a the inputed place. It also generates the background of the application related to the inputed place by the
+                user while showing the weather . It does this by using weather API from the weather api website. It displays the following fields:
+                - Temperature in Celsius
+                - Icon of weather
+                - Description of weather
+                - humidity and the wind speed.
+     
+- Chatapp : This is a chat application which can be used by many users to communicate with each other. The user first have to create an account in it by filling the required
+            details in the registration form. The user then can freely communicate with the other users. The users status is represented by a green light if is online or else
+            grey dot if offline , the display pictures of the users are also visible to himself as well other user when online. It contains login verification in it. The user 
+            details are stored in the admin sql database and the password in converted in hash function so it is not disclosed to admin so the details of users is totaly protected.
+            
+- Zoro :- Speech Recognisation Application : This an application which works on speech recognisation to perform different tasks on the device. The application requires acces of
+          your microphone and with one keyword it opens the required website. It has speech recognisation commands and assits the user as a virtual assistant very efficently.
+          Refer to the instructions text files for the instructions which should be given to the application.
+
+- Parallx Website : This is a website which has minimal content but with a new css design and animation in it. It can be used as a front page template in amy other website to 
+                    increase the beauty of the website more.
+                    
+- Project Image : This project contains many templates for images display. All the html files are linked to the main.html file . It contains three html templtes with each different
+                  style of representation of images.
