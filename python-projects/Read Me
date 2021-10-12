@@ -1,0 +1,9 @@
+This folder consists of all the python projects I have done . It contains the following projects :
+
+- Path-Finder : Used to find the shortest psth between two given points and obstracles. Implemented using Dijkstra's Algorithm.
+- Email sender : Used to send emails through python. To use this your email id should allow access to be used by another user in email settings.
+- Encrypt and Decrypt : Used to encrypt and decrypt data for prevailing the safety of the user data.
+- Google map : Used to plot pin on different places on the globe with the use of their lognitute and latitude coordinates.
+- Password authentication : Used to store all the important password of the user in a safe enviornment and protect it from been threated.
+- Image segmentation : Used to segregate different colours from a given particular picture.
+- Face Detection : Used to detect faces from a given picture . Using different modules for face detection.
