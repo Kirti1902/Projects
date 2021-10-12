@@ -48,7 +48,7 @@ Here are show description about the projects :
             
 - Zoro :- Speech Recognisation Application : This an application which works on speech recognisation to perform different tasks on the device. The application requires acces of
           your microphone and with one keyword it opens the required website. It has speech recognisation commands and assits the user as a virtual assistant very efficently.
-          Refer to the instructions text files for the instructions which should be given to the application.
+          Refer to the javascript file for the instructions which should be given to the application.
 
 - Parallx Website : This is a website which has minimal content but with a new css design and animation in it. It can be used as a front page template in amy other website to 
                     increase the beauty of the website more.
