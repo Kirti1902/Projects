@@ -4,7 +4,7 @@ This folder contains all my projects build using :
 - Javascript
 - API 
 
-There are two projects named - "Tour_Travel_Website" and "Chatapp" which uses php language also in them.
+There are two projects named - "Tour_Travel_Website" and "Chatapp" which uses php language also in them. Use Xammp application for them.
 
 Here are show description about the projects :
 
@@ -30,6 +30,9 @@ Here are show description about the projects :
                         full guide support for visting famous place of the world and also the events famous there . It also helps the user to plan his trip with maximum 
                         fun output. It uses additional php language in it and also contains a database for storing the details of the customers who have registered or booked 
                         a trip on the website. The user has to login first to book any trip thus it also uses login verification of the user which are stored in the sql database.
+                        Contributors:
+                        1.
+                        2.
                         
 - Weather App : This is an application which tells the weather of a the inputed place. It also generates the background of the application related to the inputed place by the
                 user while showing the weather . It does this by using weather API from the weather api website. It displays the following fields:
